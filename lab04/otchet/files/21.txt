@@ -1,0 +1,13 @@
+/home/koval/.config/goa-1.0
+/home/koval/.config/xviewer
+/home/koval/.cache/obexd
+/home/koval/.mozilla/extensions
+/home/koval/files
+/home/koval/Videos
+/home/koval/Documents
+/home/koval/Music
+/home/koval/.vscode/cli
+/home/koval/Desktop
+/home/koval/Public
+/home/koval/.gnupg/private-keys-v1.d
+/home/koval/Templates
